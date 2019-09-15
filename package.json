@@ -1,0 +1,23 @@
+{
+    "name": "tarea9_gerssonhernandez",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GerssonHernandez/tarea9_GerssonHernandez.git"
+    },
+    "author": "Gersson Hernandez",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GerssonHernandez/tarea9_GerssonHernandez/issues"
+    },
+    "homepage": "https://github.com/GerssonHernandez/tarea9_GerssonHernandez#readme",
+    "dependencies": {
+        "server": "^1.0.19"
+    }
+}
